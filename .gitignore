@@ -1,0 +1,10 @@
+# Python pyinstaller build artifacts
+build/
+dist/
+*.spec
+
+# macOS
+.DS_Store
+
+.streamlit/
+data/

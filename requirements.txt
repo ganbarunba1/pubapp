@@ -1,0 +1,8 @@
+streamlit
+streamlit-geolocation
+folium
+streamlit-folium
+geopy
+google-maps-services-python
+openai
+Pillow
