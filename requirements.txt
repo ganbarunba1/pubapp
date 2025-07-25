@@ -3,6 +3,6 @@ streamlit-geolocation
 folium
 streamlit-folium
 geopy
-google-maps-services-python
+googlemaps
 openai
 Pillow
